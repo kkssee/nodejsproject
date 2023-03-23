@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkssee/nodejsproject.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "kkssee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkssee/nodejsproject/issues"
+  },
+  "homepage": "https://github.com/kkssee/nodejsproject#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pm2": "^5.3.0"
+  }
+}
